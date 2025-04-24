@@ -38,4 +38,22 @@ src/
 ├── App.jsx               # Main layout with provider
 ├── main.jsx              # Entry point
 
+##  Setup
+1. Clone the repository
+- git clone https://github.com/vinayak0603/crypto-tracker.git
+
+2. Navigate into the project directory
+- cd client
+
+3. Install dependencies
+- npm install
+
+4. Start the development server
+- npm run dev
+
 ##  Video link
+- https://drive.google.com/file/d/1jtGygpmeJ_-3r0f5mUL6MT-Wpyb9qF3o/view?usp=drivesdk 
+
+##  Live Project link
+
+- https://crypto-tracker-b309.onrender.com/
